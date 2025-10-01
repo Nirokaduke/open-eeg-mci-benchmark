@@ -1,4 +1,15 @@
-# Connectivity settings
-lag: 12      # samples for Granger/DTF (edit per sampling_rate)
-graph_metrics: [clustering_coeff, path_length, small_world]
-measures: [corr, aec, pli, plv, dtf, granger]
+connectivity_measures:
+  - correlation
+  - plv
+  - pli
+  - aec
+
+graph_metrics:
+  - clustering
+  - path_length
+  - efficiency
+  - modularity
+
+lag: 12  # For directed connectivity (Granger/DTF)
+window_size: 2.0  # seconds
+overlap: 0.5  # 50% overlap
