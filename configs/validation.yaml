@@ -1,0 +1,5 @@
+# Validation config
+cv: loso
+metrics: [f1, mcc, auc]
+external_test_ids: configs/external_test_ids.txt
+seed: 42

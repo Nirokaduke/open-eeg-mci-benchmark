@@ -1,0 +1,11 @@
+# TRIPOD+AI Checklist (Template)
+- Title/abstract
+- Participants
+- Outcome & predictors
+- Sample size
+- Missing data
+- Statistical analysis
+- Validation (LOSO/external)
+- Performance metrics (F1/MCC/AUC)
+- Model specification
+- Risk of bias & limitations

@@ -1,0 +1,10 @@
+# Frequency bands and preprocessing parameters
+sampling_rate: 256
+notch_hz: null
+highpass_hz: 0.5
+lowpass_hz: 40.0
+bands:
+  delta: [1, 4]
+  theta: [4, 8]
+  alpha: [8, 13]
+  beta:  [13, 30]

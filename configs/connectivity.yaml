@@ -1,0 +1,4 @@
+# Connectivity settings
+lag: 12      # samples for Granger/DTF (edit per sampling_rate)
+graph_metrics: [clustering_coeff, path_length, small_world]
+measures: [corr, aec, pli, plv, dtf, granger]
