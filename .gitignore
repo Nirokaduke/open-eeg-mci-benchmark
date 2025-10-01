@@ -143,3 +143,9 @@ memory/claude-flow@alpha-data.json
 .gitignore
 .claude-flow/metrics/performance.json
 .claude-flow/metrics/system-metrics.json
+docs/Electroencephalogram and Event-Related Potential in Mild Cognitive Impairment.pdf
+CHANGES
+README
+data/literature/figure_1.png
+data/literature/figure_3.png
+data/literature/figure_2.png
