@@ -119,16 +119,27 @@ open-eeg-mci-benchmark/
 └── requirements.txt  # Python dependencies
 ```
 
-## Citation
-
-If you use this benchmark, please cite:
+## Reference 
+```bibtex
+@dataset{ds004504:1.0.7,
+  author = {Andreas Miltiadous AND Katerina D. Tzimourta AND Theodora Afrantou AND Panagiotis Ioannidis AND Nikolaos Grigoriadis AND Dimitrios G. Tsalikakis AND Pantelis Angelidis AND Markos G. Tsipouras AND Evripidis Glavas AND Nikolaos Giannakeas AND Alexandros T. Tzallas},
+  title = {"A dataset of EEG recordings from: Alzheimer's disease, Frontotemporal dementia and Healthy subjects"},
+  year = {2024},
+  doi = {doi:10.18112/openneuro.ds004504.v1.0.7},
+  publisher = {OpenNeuro}
+}
+```
 
 ```bibtex
-@software{eeg_mci_benchmark_2025,
-  title = {EEG-MCI-Benchmark: A BIDS-compliant Pipeline for MCI Detection},
-  author = {Your Name},
-  year = {2025},
-  url = {https://github.com/thc1006/open-eeg-mci-benchmark}
+@data{ANPU7L_2025,
+author = {Hamed Azami, Mina Mirjalili, Tarek K. Rajji, Chien-Te Wu, Anne Humeau-Heurtier, Tzyy-Ping Jung, Chun-Shu Wei, Thanh-Tung Trinh, Yi-Hung Liu},
+publisher = {NYCU Dataverse},
+title = {{Electroencephalogram and Event-Related Potential in Mild Cognitive Impairment: Recent Developments in Signal Processing, Machine Learning, and Deep Learning}},
+UNF = {UNF:6:03WvPxVghWaivy3U3PQrOg==},
+year = {2025},
+version = {DRAFT VERSION},
+doi = {10.57770/ANPU7L},
+url = {https://doi.org/10.57770/ANPU7L}
 }
 ```
 
