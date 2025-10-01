@@ -1,25 +1,18 @@
-# flow/claude-flow.yaml
 version: 1
 flags: ["--dangerously-skip-permissions"]
 workspace: "."
 nodes:
   - id: data
-    workdir: "."
-    commands:
-      - file: ".claude/commands/01_init_bids.md"
+    commands: [{file: ".claude/commands/01_init_bids.md"}]
   - id: preprocessing
     depends_on: ["data"]
-    commands:
-      - file: ".claude/commands/02_preprocessing.md"
+    commands: [{file: ".claude/commands/02_preprocessing.md"}]
   - id: features
     depends_on: ["preprocessing"]
-    commands:
-      - file: ".claude/commands/03_features.md"
+    commands: [{file: ".claude/commands/03_features.md"}]
   - id: baselines
     depends_on: ["features"]
-    commands:
-      - file: ".claude/commands/04_baselines.md"
+    commands: [{file: ".claude/commands/04_baselines.md"}]
   - id: reports
     depends_on: ["baselines"]
-    commands:
-      - file: ".claude/commands/06_validation_reporting.md"
+    commands: [{file: ".claude/commands/06_validation_reporting.md"}]
