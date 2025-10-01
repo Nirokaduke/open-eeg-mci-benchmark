@@ -149,3 +149,5 @@ README
 data/literature/figure_1.png
 data/literature/figure_3.png
 data/literature/figure_2.png
+.claude-flow/metrics/system-metrics.json
+.claude-flow/metrics/performance.json
