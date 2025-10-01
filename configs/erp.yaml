@@ -1,6 +1,5 @@
-# ERP extraction settings
-epoch_window: [-0.2, 0.8]   # seconds relative to stimulus
-baseline: [-0.2, 0.0]       # seconds
+epoch_window: [-0.2, 0.8]
+baseline: [-0.2, 0.0]
 components:
   - name: P300
     channel_set: parietal

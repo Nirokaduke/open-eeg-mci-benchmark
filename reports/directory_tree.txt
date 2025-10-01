@@ -1,0 +1,85 @@
+.
+¢u¢w¢w assets/
+¢x   ¢|¢w¢w social_preview.png
+¢u¢w¢w code/
+¢x   ¢u¢w¢w features/
+¢x   ¢u¢w¢w models/
+¢x   ¢u¢w¢w reports/
+¢x   ¢u¢w¢w scripts/
+¢x   ¢u¢w¢w utils/
+¢x   ¢u¢w¢w convert_to_bids.py
+¢x   ¢|¢w¢w preprocessing.py
+¢u¢w¢w configs/
+¢x   ¢u¢w¢w bands.yaml
+¢x   ¢u¢w¢w connectivity.yaml
+¢x   ¢u¢w¢w erp.yaml
+¢x   ¢u¢w¢w external_test_ids.txt
+¢x   ¢|¢w¢w validation.yaml
+¢u¢w¢w coordination/
+¢x   ¢u¢w¢w memory_bank/
+¢x   ¢u¢w¢w orchestration/
+¢x   ¢|¢w¢w subtasks/
+¢u¢w¢w data/
+¢x   ¢u¢w¢w bids_raw/
+¢x   ¢u¢w¢w derivatives/
+¢x   ¢u¢w¢w literature/
+¢x   ¢|¢w¢w README.md
+¢u¢w¢w docs/
+¢x   ¢u¢w¢w Electroencephalogram and Event-Related Potential in Mild Cognitive Impairment.pdf
+¢x   ¢|¢w¢w REPORT_GENERATION_GUIDE.md
+¢u¢w¢w flow/
+¢x   ¢|¢w¢w claude-flow.yaml
+¢u¢w¢w memory/
+¢x   ¢u¢w¢w agents/
+¢x   ¢u¢w¢w sessions/
+¢x   ¢|¢w¢w claude-flow@alpha-data.json
+¢u¢w¢w reports/
+¢x   ¢u¢w¢w coverage_html/
+¢x   ¢u¢w¢w templates/
+¢x   ¢u¢w¢w baseline_metrics.md
+¢x   ¢u¢w¢w classical_implementation_summary.md
+¢x   ¢u¢w¢w coverage.xml
+¢x   ¢u¢w¢w directory_tree.txt
+¢x   ¢u¢w¢w END_TO_END_VERIFICATION_REPORT.md
+¢x   ¢u¢w¢w env.txt
+¢x   ¢u¢w¢w evidence_map.html
+¢x   ¢u¢w¢w FINAL_PROJECT_SUMMARY.md
+¢x   ¢u¢w¢w PIPELINE_EXECUTION_SUMMARY.md
+¢x   ¢u¢w¢w preprocessing.md
+¢x   ¢u¢w¢w run_log.md
+¢x   ¢u¢w¢w signal_analysis.png
+¢x   ¢u¢w¢w stard_2015_report.md
+¢x   ¢u¢w¢w tripod_ai_report.md
+¢x   ¢|¢w¢w WORKFLOW_VALIDATION_COMPLETE.md
+¢u¢w¢w src/
+¢x   ¢u¢w¢w features/
+¢x   ¢u¢w¢w models/
+¢x   ¢u¢w¢w reports/
+¢x   ¢u¢w¢w __init__.py
+¢x   ¢u¢w¢w convert_to_bids.py
+¢x   ¢|¢w¢w preprocessing.py
+¢u¢w¢w tests/
+¢x   ¢u¢w¢w __init__.py
+¢x   ¢u¢w¢w test_bids_conversion.py
+¢x   ¢u¢w¢w test_end_to_end.py
+¢x   ¢u¢w¢w test_erp_standalone.py
+¢x   ¢u¢w¢w test_feature_extraction.py
+¢x   ¢u¢w¢w test_ml_models.py
+¢x   ¢|¢w¢w test_preprocessing.py
+¢u¢w¢w .coverage
+¢u¢w¢w .gitignore
+¢u¢w¢w .mcp.json
+¢u¢w¢w CHANGES
+¢u¢w¢w claude-flow.cmd
+¢u¢w¢w CLAUDE.md
+¢u¢w¢w dataset_description.json
+¢u¢w¢w GITHUB_SETUP.md
+¢u¢w¢w LICENSE
+¢u¢w¢w MANIFEST.TXT
+¢u¢w¢w participants.json
+¢u¢w¢w participants.tsv
+¢u¢w¢w pytest.ini
+¢u¢w¢w README
+¢u¢w¢w README.md
+¢u¢w¢w requirements.txt
+¢|¢w¢w verify_all.py

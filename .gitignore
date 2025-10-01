@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+derivatives/*
+.set
+.tsv
 
 # C extensions
 *.so
@@ -140,9 +143,6 @@ memory/claude-flow@alpha-data.json
 .hive-mind/sessions/session-1759260346951-c5xieeczk-auto-save-1759260376964.json
 .hive-mind/config/queens.json
 .claude-flow/metrics/task-metrics.json
-.gitignore
-.claude-flow/metrics/performance.json
-.claude-flow/metrics/system-metrics.json
 docs/Electroencephalogram and Event-Related Potential in Mild Cognitive Impairment.pdf
 CHANGES
 README
