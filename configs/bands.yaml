@@ -1,4 +1,3 @@
-# Frequency bands and preprocessing parameters
 sampling_rate: 256
 notch_hz: null
 highpass_hz: 0.5
